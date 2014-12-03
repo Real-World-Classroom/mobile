@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/action_person"
+        android:icon="@drawable/ic_action_person"
+        android:title="@string/action_person"
+        android:showAsAction="always"/>
+    <item android:id="@+id/action_logout"
+        android:icon="@drawable/action_logout"
+        android:title="@string/action_logout"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_settings"
+        android:icon="@drawable/ic_action_settings"
+        android:title="@string/action_settings"
+        android:showAsAction="ifRoom"/>
+
+</menu>
